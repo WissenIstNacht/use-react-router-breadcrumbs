@@ -47,6 +47,10 @@ export interface PathPattern<Path extends string = string> {
 	end?: boolean
 }
 
+interface Blub {
+	blueb: string
+}
+
 type Location = ReturnType<typeof useLocation>
 
 export interface Options {
