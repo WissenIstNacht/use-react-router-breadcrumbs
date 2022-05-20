@@ -21,7 +21,7 @@
 		"types": "tsc -p tsconfig.json --declaration --emitDeclarationOnly",
 		"lint": "eslint ./src/**",
 		"postpublish": "pinst --enable",
-		"prepare": "husky install"
+		"prepare": "yarn build"
 	},
 	"devDependencies": {
 		"@babel/cli": "^7.17.6",
