@@ -7224,7 +7224,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-router@npm:6.3.0, react-router@npm:^6.3.0":
+"react-router@npm:6.3.0":
   version: 6.3.0
   resolution: "react-router@npm:6.3.0"
   dependencies:
@@ -8563,7 +8563,6 @@ typescript@^4.3.2:
     prop-types: ^15.7.2
     react: ^18.0.0
     react-dom: ^18.0.0
-    react-router: ^6.3.0
     react-router-dom: ^6.1.0
     rollup: ^2.51.1
     rollup-plugin-size: ^0.2.2
